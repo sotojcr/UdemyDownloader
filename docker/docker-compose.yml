@@ -4,5 +4,5 @@ services:
   udemydownloader:
     image: udemydownloader
     build:
-      context: ./src/UdemyDownloader
+      context: ..\/src/UdemyDownloader
       dockerfile: Dockerfile
