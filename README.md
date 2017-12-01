@@ -1,5 +1,5 @@
 # UdemyDownloader
-A utility to archive your udemy courses for offline purposes.
+A utility to archivate your udemy courses for offline purposes.
 
 ## Requirements
 
