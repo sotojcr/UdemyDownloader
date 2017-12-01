@@ -62,5 +62,5 @@
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
 
-# Ignoring testfiles for githubs language detection
-UdemyDownloader/tests/UdemyDownloader.Tests/Testfiles/* linguist-vendored
+* linguist-vendored
+*.cs linguist-vendored=false
